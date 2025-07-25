@@ -1,12 +1,18 @@
-## Hi there 👋 It's me Vinoth
+## 👋 Hey there! I'm [Your Name] 🙌
+
+🎓 I’m a **4rd-year AI & Data Science student** passionate about Machine Learning.
+
+---
+
+### 🚀 About Me
+- 📈 Curruntly doing intership on codsoft
+- 🔭 Currently working on: **Machine Learning Projects**
+- 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
+- 💬 Ask me about: `Python`, `Pandas`, `scikit-learn`, `Streamlit`, `ML Projects`
+- 📈 Interests: `machine learning`,`deep learning`,`neural networks`
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vinoth-G18&color=blue)
-
-
-Student @ Dhanalakshmi srinivasan engineering college @ perambalur
-<img align="right" width="100" height="100" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-                                                
-- 🌱 I’m currently learning machine learning , deeplearning , DSA
-- 🌱  I'm currently doing internship on codsoft.
 - ## 🌐 Connect with Me
 
 <p align="left">
