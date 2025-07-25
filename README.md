@@ -7,15 +7,21 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
                                                 
 - 🌱 I’m currently learning machine learning , deeplearning , DSA
 - 🌱  I'm currently doing internship on codsoft.
-- Social Presence
+- ## 🌐 Connect with Me
 
- <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
- (www.linkedin.com/in/vinoth-g18)
- 
+<p align="left">
+  <a href="www.linkedin.com/in/vinoth-g18"target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vinothvinothg1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+</p>
+
 
 
 ### language,tools and libraries
-
 
 <p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> 
@@ -25,7 +31,6 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
 </p>
-
 
 
 ![Vinoth's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=vinoth-G18)
