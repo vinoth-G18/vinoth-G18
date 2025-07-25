@@ -1,4 +1,6 @@
 ## Hi there 👋 It's me Vinoth
+![Profile Views](https://komarev.com/ghpvc/?username=vinoth-G18&color=blue)
+
 
 Student @ Dhanalakshmi srinivasan engineering college @ perambalur
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
