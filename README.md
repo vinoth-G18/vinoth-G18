@@ -12,14 +12,12 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
  
 
 
-### I code in
+### language and tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Vinoth's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=vinoth-G18)
 
 
 
