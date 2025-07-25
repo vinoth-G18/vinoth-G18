@@ -8,7 +8,7 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
 - Social Presence
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-- (www.linkedin.com/in/vinoth-g18)
+(www.linkedin.com/in/vinoth-g18)
  
 
 
