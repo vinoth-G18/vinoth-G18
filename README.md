@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm [Your Name] 🙌
+## 👋 Hey there! I'm Vinoth 🙌
 
 🎓 I’m a **4rd-year AI & Data Science student** passionate about Machine Learning.
 
