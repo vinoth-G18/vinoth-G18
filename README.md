@@ -21,6 +21,9 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
 
 ![Vinoth's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=vinoth-G18)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth-G18&layout=compact)
+
+
 
 
 
