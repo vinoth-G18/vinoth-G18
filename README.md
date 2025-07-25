@@ -6,8 +6,9 @@ Student @ Dhanalakshmi srinivasan engineering college @ perambalur
 - 🌱 I’m currently learning machine learning , deeplearning , DSA
 - 🌱  I'm currently doing internship on codsoft.
 - Social Presence
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 - (www.linkedin.com/in/vinoth-g18)
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
  
 
 
