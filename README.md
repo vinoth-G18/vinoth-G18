@@ -8,7 +8,6 @@
 - 📈 Curruntly doing intership on codsoft
 - 🔭 Currently working on: **Machine Learning Projects**
 - 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
-- 💬 Ask me about: `Python`, `Pandas`, `scikit-learn`, `Streamlit`, `ML Projects`
 - 📈 Interests: `machine learning`,`deep learning`,`neural networks`
 
 
