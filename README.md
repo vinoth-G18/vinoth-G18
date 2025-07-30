@@ -36,6 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" height="40" alt="Spyder" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
+
 </p>
 
 
