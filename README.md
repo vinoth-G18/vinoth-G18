@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 📈 Curruntly doing intership on codsoft
+- 📈 Curruntly learing deeplearing concepts
 - 🔭 Currently working on: **Machine Learning Projects**
 - 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
 - 📈 Interests: `machine learning`,`deep learning`,`neural networks`,`natural language processing`
