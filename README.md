@@ -38,9 +38,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" height="40" alt="Spyder" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
-<p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-</p>
 </p>
 
 
