@@ -31,8 +31,7 @@
 <p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="Java" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Power_BI_Logo.png" height="40" alt="Power BI" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Power_BI_Logo.png" height="40" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="40" alt="PyCharm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
@@ -40,6 +39,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" height="40" alt="Spyder" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Power_BI_Logo.png" height="40" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
