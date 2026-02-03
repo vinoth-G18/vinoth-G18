@@ -31,7 +31,8 @@
 <p align="left">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="Java" />
-<img src="assets/powerbi.png" height="40" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="40" alt="PyCharm"/>
