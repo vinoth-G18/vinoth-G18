@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 📈 Curruntly learing data visualization tools
-- 🔭 Currently working on: **Machine Learning Projects**
+- 📈 Curruntly learing Mlops
+- 🔭 Currently working on: **data science Projects**
 - 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
 - 📈 Interests: `machine learning`,`deep learning`,`neural networks`,`natural language processing`,`Data visualization`
 
