@@ -37,6 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" height="40" alt="Excel" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask" />
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
