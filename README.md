@@ -39,7 +39,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" height="40" alt="Excel" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask" />
-<img src="https://skillicons.dev/icons?i=python,mysql,github" />
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Analytics/Amazon-Athena.png" height="40" alt="Amazon Athena" />
+
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Analytics/AWS-Glue.png" height="40" alt="AWS Glue" />
+
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Storage/Amazon-Simple-Storage-Service-S3.png" height="40" alt="Amazon S3" />
+
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Analytics/Amazon-QuickSight.png" height="40" alt="Amazon QuickSight" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
