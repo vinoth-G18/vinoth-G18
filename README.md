@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" height="40" alt="Excel" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask" />
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
