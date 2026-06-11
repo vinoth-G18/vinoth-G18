@@ -7,7 +7,7 @@
 - 📈 Curruntly learing Deep learning
 - 🔭 Currently working on: **data science Projects**
 - 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
-- 📈 Interests: `machine learning`,`deep learning`,`neural networks`,`natural language processing`,`Data visualization`
+- 📈 Interests: `Data analytics`,`Data visualization`,`machine learning`,`deep learning`,`neural networks`,`natural language processing`
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinoth-G18&color=blue)
