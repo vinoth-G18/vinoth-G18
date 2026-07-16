@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Vinoth 🙌
 
-🎓 I’m a **4rd-year AI & Data Science student** passionate about Data science.
+🎓 I’m a **recently completed UG in  AI & Data Science student** passionate about Data science.
 ---
 
 ### 🚀 About Me
