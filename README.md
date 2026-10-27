@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 About Me
-- 📈 Curruntly learing Deep learning
-- 🔭 Currently working on: **data science Projects**
-- 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**
-- 📈 Interests: `Data analytics`,`Data visualization`,`machine learning`,`deep learning`,`neural networks`,`natural language processing`
+- 📈 Curruntly learing API intergration
+- 🔭 Currently working on: ** Adz4needz as data analyst intern**
+- 🌱 Learning: **machine learning**, **Deeplearning**, **neural networks**, **Advanced python**
+- 📈 Interests:`Python`, `Data analytics`,`Data visualization`,`machine learning`,`deep learning`,`neural networks`,`natural language processing`
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinoth-G18&color=blue)
